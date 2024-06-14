@@ -1,0 +1,5 @@
+train: c:\Users\matrix\pruebayolo\proyecto_yolo\dist\data_affectation\YOLODataset_train
+val: c:\Users\matrix\pruebayolo\proyecto_yolo\dist\data_affectation\YOLODataset_val
+test: 
+nc: 2
+names: ['abolladura', 'rayon']

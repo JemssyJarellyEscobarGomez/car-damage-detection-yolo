@@ -1,0 +1,5 @@
+train: C:\Users\matrix\pruebayolo\proyecto_yolo\dist\data_chevrolet_toyota\train
+val: C:\Users\matrix\pruebayolo\proyecto_yolo\dist\data_chevrolet_toyota\val
+test: 
+nc: 41
+names: ["captiva", "beat", "tahoe", "tacoma", "hilux", "chevrolet", "sequoia", "crown", "npr", "sienna", "landcruiser", "onix", "trackerTurbo", "yaris", "swift", "prado", "sequioa", "nrh", "fjcruiser", "rush", "colorado", "joy", "equinoxRS", "cross", "equinox", "fortuner", "rav4", "4runner", "sail", "nhr", "toyota", "blazerRS", "Dmax", "tundra", "n400", "traiblazer", "boltEuv", "spark", "corolla", "blazer", "sparkGT"]
